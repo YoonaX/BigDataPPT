@@ -1,0 +1,7 @@
+﻿（1）通过训练数据集：iris.txt，训练决策树分类器，并画出决策树。
+     参考函数：from sklearn import tree；tree.DecisionTreeClassifier(criterion='gini')；
+     作业提交生成的决策树（PDF文件或者图片）
+（2）在上例中，用80%的数据做训练，20%做测试，给出测试的准确率
+		参考函数：from sklearn.model_selection import train_test_split；DecisionTreeClassifier的predict方法
+		
+		
